@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "devops-project-org"
+    organization = "Bassem-Org"
 
     workspaces {
-      name = "devops-project-workspace"
+      name = "project2"
     }
   }
 }
