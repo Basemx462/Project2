@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: git@github.com:Basemx462/Project2.git
-    targetRevision:  main
+    targetRevision: HEAD # Set this to "HEAD" to use the latest commit
     path: manifests/observability
   destination:
     server: https://kubernetes.default.svc
