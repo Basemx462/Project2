@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:waleedmagdy/devops_project.git
+    repoURL: git@github.com:Basemx462/Project2.git
     targetRevision: <specific_revision_or_tag>
     path: manifests/observability
   destination:
